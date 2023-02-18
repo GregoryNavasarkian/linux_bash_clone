@@ -1,2 +1,2 @@
-# linux_bash_clone
-# linux_bash_clone
+# Linux Bash Clone
+## Custom implementation for basic bash functions
